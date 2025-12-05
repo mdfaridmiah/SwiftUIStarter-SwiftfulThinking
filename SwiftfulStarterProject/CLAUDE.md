@@ -92,7 +92,7 @@ When the user triggers specific requests, follow these action workflows:
 
 ### File Creation (ALWAYS use Write/Edit tools)
 - ✅ This project uses Xcode 15+ File System Synchronization
-- ✅ Files created in `SwiftyStarter/` folder automatically appear in Xcode
+- ✅ Files created in `SwiftfulStarterProject/` folder automatically appear in Xcode
 - ✅ ALWAYS use Write/Edit tools to create .swift files (unless documentation)
 - ✅ Files automatically included in build - no manual Xcode steps needed
 - ❌ Exception: If file created outside main folder, provide path for manual add (rare)

@@ -7,7 +7,7 @@ if [ -z "$1" ]; then
 fi
 
 # Set the old and new project names
-OLD_PARENT_DIR="SwiftyStarter"
+OLD_PARENT_DIR="SwiftfulStarterProject"
 NEW_PARENT_DIR="$1"
 
 # Ensure the new parent directory does not already exist
